@@ -1,0 +1,26 @@
+{
+    "form_name": "",
+    "form_names": [],
+    "form_order": 1,
+    "id": 805,
+    "is_battle_only": false,
+    "is_default": true,
+    "is_mega": false,
+    "name": "stakataka",
+    "names": [],
+    "order": 1121,
+    "pokemon": {
+        "name": "stakataka",
+        "url": "/api/v2/pokemon/805/"
+    },
+    "sprites": {
+        "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/805.png",
+        "back_shiny": null,
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png",
+        "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/805.png"
+    },
+    "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/api/v2/version-group/18/"
+    }
+}
